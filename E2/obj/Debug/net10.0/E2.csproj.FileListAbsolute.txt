@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\Prueba\E2\obj\Debug\net10.0\E2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Prueba\E2\obj\Debug\net10.0\E2.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Prueba\E2\obj\Debug\net10.0\E2.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Prueba\E2\obj\Debug\net10.0\E2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Prueba\E2\bin\Debug\net10.0\E2.exe
+C:\Users\DELL\Desktop\Prueba\E2\bin\Debug\net10.0\E2.deps.json
+C:\Users\DELL\Desktop\Prueba\E2\bin\Debug\net10.0\E2.runtimeconfig.json
+C:\Users\DELL\Desktop\Prueba\E2\bin\Debug\net10.0\E2.dll
+C:\Users\DELL\Desktop\Prueba\E2\bin\Debug\net10.0\E2.pdb
+C:\Users\DELL\Desktop\Prueba\E2\obj\Debug\net10.0\E2.dll
+C:\Users\DELL\Desktop\Prueba\E2\obj\Debug\net10.0\refint\E2.dll
+C:\Users\DELL\Desktop\Prueba\E2\obj\Debug\net10.0\E2.pdb
+C:\Users\DELL\Desktop\Prueba\E2\obj\Debug\net10.0\E2.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Prueba\E2\obj\Debug\net10.0\ref\E2.dll
